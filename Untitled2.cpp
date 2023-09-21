@@ -2,7 +2,7 @@
 #include<cmath>
 int main() {
 	int n ,i;
-	std:: cout << "Nhap kí tự abc: "; std:: cin >> n;
+	std:: cout << "Nhap kí tự abcd: "; std:: cin >> n;
 	int dem =0;
 	for (i=1;dem <= n; i++) {
 		dem+=i;
